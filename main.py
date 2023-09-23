@@ -119,7 +119,8 @@ def form_create():
         return render_template('create_card.html')
 
 
-
+def sum(a,b):
+    return
 
 
 if __name__ == "__main__":

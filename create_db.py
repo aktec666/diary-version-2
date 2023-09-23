@@ -1,3 +1,2 @@
-from main import app, db
-app.app_context().push()
-db.create_all()
+for i in range(50):
+    print(2*i)
